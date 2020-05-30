@@ -20,3 +20,7 @@ Humidity (%) vs. Latitude
 Cloudiness (%) vs. Latitude
 
 Wind Speed (mph) vs. Latitude
+
+# Three observable trends based on the data
+
+![](images/Capture1.JPG)
