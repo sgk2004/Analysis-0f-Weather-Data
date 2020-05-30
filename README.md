@@ -23,4 +23,4 @@ Wind Speed (mph) vs. Latitude
 
 # Three observable trends based on the data
 
-![](images/Capture1.JPG)
+![](WeatherPy/images/Capture1.JPG)
