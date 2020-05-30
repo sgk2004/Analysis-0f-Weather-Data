@@ -21,6 +21,9 @@ Cloudiness (%) vs. Latitude
 
 Wind Speed (mph) vs. Latitude
 
-# Three observable trends based on the data
+# Three trends based on the data
 
 ![](WeatherPy/images/Capture1.JPG)
+![](WeatherPy/images/Capture2.JPG)
+![](WeatherPy/images/Capture3.JPG)
+
