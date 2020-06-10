@@ -10,8 +10,8 @@ Performed a weather check on each of the cities using a series of successive API
 Weather API (https://openweathermap.org/api)
 
 
-CSV (cities.csv) of data retrieved: contains detail of cities analyzed, saved in folder:- Python-api-challenge/WeatherPy/output_data/
-
+CSV of data retrieved: contains detail of cities analyzed, saved in as csv file:- Python-api-challenge/WeatherPy/output_data/
+[cities.csv]https://github.com/sgk2004/Python-api-challenge/blob/master/WeatherPy/output_data/cities.csv
 Images : png images for each 
 Temperature (F) vs. Latitude
 [temp](https://github.com/sgk2004/Python-api-challenge/blob/master/WeatherPy/Temp_distribution.png)
