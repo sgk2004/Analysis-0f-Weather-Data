@@ -9,9 +9,9 @@ Python library used -citipy 0.0.5
 
 Weather API (https://openweathermap.org/api)
 
-CSV of data retrieved: City details saved in (Python-api-challenge/WeatherPy/output_data/cities.csv)
+CSV (cities.csv) of data retrieved: contains detail of cities analyzed, saved in folder:- Python-api-challenge/WeatherPy/output_data/
 
-png images for each scatter plot
+Images : png images for each scatter plot saved in :- Python-api-challenge/WeatherPy/images/
 
 Temperature (F) vs. Latitude
 
