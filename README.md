@@ -14,19 +14,21 @@ CSV of data retrieved: contains detail of cities analyzed, saved in as csv file:
 [cities.csv](https://github.com/sgk2004/Python-api-challenge/blob/master/WeatherPy/output_data/cities.csv)
 
 
-Images : png images for each 
+Images : Scatter Plots
+
 Temperature (F) vs. Latitude
 [temp](https://github.com/sgk2004/Python-api-challenge/blob/master/WeatherPy/Temp_distribution.png)
 
-[a workaround link](sgk2004/Python-api-challenge/blob/master/WeatherPy/Temp_distribution.png)
-
 Humidity (%) vs. Latitude
+[humidity](https://github.com/sgk2004/Python-api-challenge/blob/master/WeatherPy/Humidity_distribution.png)
 
 Cloudiness (%) vs. Latitude
+[cloudiness](https://github.com/sgk2004/Python-api-challenge/blob/master/WeatherPy/Cloudiness_distribution.png)
 
 Wind Speed (mph) vs. Latitude
+[windspeed](https://github.com/sgk2004/Python-api-challenge/blob/master/WeatherPy/Windspeed_distribution.png)
 
-scatter plot saved in :- Python-api-challenge/WeatherPy/images/
+
 
 
 # Three trends based on the data
