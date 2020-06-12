@@ -13,6 +13,8 @@ Weather API (https://openweathermap.org/api)
 CSV of data retrieved: contains detail of cities analyzed, saved in as csv file:- Python-api-challenge/WeatherPy/output_data/
 [cities.csv](https://github.com/sgk2004/Python-api-challenge/blob/master/WeatherPy/output_data/cities.csv)
 
+Data extraction, data analysis and visualization : [Jupyter Notebook](https://github.com/sgk2004/Python-api-challenge/blob/master/WeatherPy/WeatherPy.ipynb)
+
 
 Images : Scatter Plots
 
