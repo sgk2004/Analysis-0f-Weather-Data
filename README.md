@@ -19,16 +19,16 @@ Data extraction, data analysis and visualization : [Jupyter Notebook](https://gi
 Images : Scatter Plots
 
 Temperature (F) vs. Latitude
-[temp](https://github.com/sgk2004/Python-api-challenge/blob/master/WeatherPy/Temp_distribution.png)
+[temp](https://github.com/sgk2004/Python-api-challenge/blob/master/WeatherPy/images/Temp_distribution.png)
 
 Humidity (%) vs. Latitude
-[humidity](https://github.com/sgk2004/Python-api-challenge/blob/master/WeatherPy/Humidity_distribution.png)
+[humidity](https://github.com/sgk2004/Python-api-challenge/blob/master/WeatherPy/images/Humidity_distribution.png)
 
 Cloudiness (%) vs. Latitude
-[cloudiness](https://github.com/sgk2004/Python-api-challenge/blob/master/WeatherPy/Cloudiness_distribution.png)
+[cloudiness](https://github.com/sgk2004/Python-api-challenge/blob/master/WeatherPy/images/Cloudiness_distribution.png)
 
 Wind Speed (mph) vs. Latitude
-[windspeed](https://github.com/sgk2004/Python-api-challenge/blob/master/WeatherPy/Windspeed_distribution.png)
+[windspeed](https://github.com/sgk2004/Python-api-challenge/blob/master/WeatherPy/images/Windspeed_distribution.png)
 
 
 
